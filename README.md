@@ -3,7 +3,7 @@
 
 WhatsApp Chat Analyzer: Extract key insights, analyze trends, and visualize data for a comprehensive understanding of your conversations.  
 
-![](https://github.com/SheikhEbadaBinAshraf/WhatsApp-Chat-Analysis/blob/main/whatsapp%20chat%20analyzer.png?raw=true) 
+![](https://github.com/SheikhEbadaBinAshraf/WhatsApp-Chat-Analyzer/blob/main/whatsapp%20chat%20analyzer.png?raw=true) 
 
 Libraries Used:  
   
@@ -26,7 +26,7 @@ Libraries Used:
 6. Counter  
   
 
-7. emoji  
+  
   
 
 8. Regular Expression  
