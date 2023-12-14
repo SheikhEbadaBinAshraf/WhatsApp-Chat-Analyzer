@@ -3,7 +3,7 @@
 
 WhatsApp Chat Analyzer: Extract key insights, analyze trends, and visualize data for a comprehensive understanding of your conversations.  
 
-  ![](https://github.com/SheikhEbadaBinAshraf/WhatsApp-Chat-Analysis/blob/main/whatsapp%20chat%20analyzer.png?raw=true) 
+![](https://github.com/SheikhEbadaBinAshraf/WhatsApp-Chat-Analysis/blob/main/whatsapp%20chat%20analyzer.png?raw=true) 
 
 Libraries Used:  
   
